@@ -26,3 +26,4 @@ function apply_k8s_manifests() {
 apply_k8s_manifests
 
 # Optimized logic batch 3297
+# Optimized logic batch 9303
